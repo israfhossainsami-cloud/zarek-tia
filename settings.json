@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dhonersmp.play.hosting",
-    "port": 58083,
+    "ip": "127.0.0.1",
+    "port": 34519,
     "version": "",
     "try-creative": false
   },
